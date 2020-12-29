@@ -28,7 +28,7 @@
 
 - D ayla-w = C'est à moi / Ca m'appartient
 - D ayla-k = Ca t'appartient (masc.)
-- D ayla-k = Ca t'appartient (fém.)
+- D ayla-m = Ca t'appartient (fém.)
 - D ayla-s = Ca lui appartient
 - D ayla-nnegh = Ca nous appartient (masc.)
 - D ayla-ntagh = Ca nous appartient (fém.)
@@ -96,14 +96,10 @@
 
 - Ach'hal = Combien ?
 - Ach'hal igourdan ig s3a ? = Combien il a d'enfants ?
+- Ach'hal i ifissires ? = Combien pour les poires ?
 
 ### Il y a ?
 
 - Yella ? = Il y a ?
 - Yella sukker di l9ehwa ? = Il y a du sucre dans le café ?
 - Tes3id tissura ntomovil ? = As-tu les clefs de la voiture ?
-
-### Combien
-
-- Ach'hal i ? = Combien pour ?
-- Ach'hal i ifissires ? = Combien pour les poires ?

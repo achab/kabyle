@@ -30,7 +30,7 @@
 - A9line en panne = Je suis en panne
 - Tekrivi rruda = La roue est crevée !
 - I3er9iyi ouvrid = J'ai perdu mon chemin
-- Voghni, te9reb af tizi ? = Boghni, c'est proche de Tizi ?
+- Voghni, te9reb af Tizi ? = Boghni, c'est proche de Tizi ?
 
 # Lexique faune et flore
 
