@@ -10,7 +10,7 @@
 - Fellas = Sur lui
 - Fellanagh = Sur nous (masc.)
 - Fellantagh = Sur nous (fém.)
-- Fellawen = = Sur vous (masc.)
+- Fellawen = Sur vous (masc.)
 - Fellakwent = Sur vous (fém.)
 - Fellasen = Sur eux
 - Fellasent = Sur elles

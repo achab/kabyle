@@ -20,7 +20,7 @@
 
 ### Tif
 
-- Yif = Il est plus ... que / Il a dépassé
+- Yif = Il est plus ..- Amenz. que / Il a dépassé
 - Jedjiga tif weltmas di ssifa = Jedjiga est plus belle que sa soeur
 
 # Nombres
