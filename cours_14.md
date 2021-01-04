@@ -18,9 +18,9 @@
 - Yugar = Il est plus ... que
 - Massil yugar Massy di le3mer = Massil est plus âgé que Massy
 
-### Tif
+### Yif
 
-- Yif = Il est plus ..- Amenz. que / Il a dépassé
+- Yif = Il est plus ... que / Il a dépassé
 - Jedjiga tif weltmas di ssifa = Jedjiga est plus belle que sa soeur
 
 # Nombres
@@ -72,7 +72,7 @@
 
 - Aneggaru / Taneggarut = Dernier / Dernière
 - Ineggura / Tineggura = Les derniers / Les dernières
-- D avrid aneggaru ara d assed ghuri deg id = C'est la dernière fois que tu viens chez moi la nuit
+- D avrid aneggaru ara d assed ghuri deg id = C'est la dernière fois que tu viens chez moi la nuit.
 
 # Poids et mesures
 
