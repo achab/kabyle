@@ -40,7 +40,7 @@
 
 # Famille
 
-- Ayessetma = O mes soeurs
+- Yessetma = O mes soeurs
 - Ayetma = O mes frères
 - Arraw-iw = Mes enfants
 - Yellis n xali = Ma cousine maternelle
@@ -84,4 +84,4 @@
 - Tafarcit = Fourchette
 - Lmous = Couteau
 - Therwi = C'est fini / C'est la merde
-- Fkiyid taghnjawt tamectuht bach ad rwigh sukker = Donne-moi une petite cuillère pour que je mélabge le sucre
+- Fkiyid taghnjawt tamectuht bach ad rwigh sukker = Donne-moi une petite cuillère pour que je mélange le sucre
