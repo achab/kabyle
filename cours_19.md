@@ -27,12 +27,12 @@
 - 10 DA = Alf frank
 - 20 DA = Alfine / Zouj alf
 - 100 DA = 3echr alaf
-- 1000 DA = myat alef
-- 2000 DA = mitine alef
-- 3000 DA = Telt muat alef
+- 1 000 DA = myat alef
+- 2 000 DA = mitine alef
+- 3 000 DA = Telt muat alef
 - 10 000 DA = Amelyun
 - 20 000 DA = Sin imelyan
-- 30 000 DA = telt mlayen
+- 30 000 DA = Telt mlayen
 - 1 000 000 DA = Myat mellioun
 - 10 000 000 DA = Amelyar
 - Ur yi keffun ara isurdiyen = Je n'ai pas assez d'argent
@@ -44,11 +44,11 @@
 
 # Au téléphone
 
-- Allo ! C'est Massil = Allo ! Dagi d Massil
-- Ferroudja est là ? = Tella Ferrudja
-- Se3diyi id kane = Passe la moi !
+- Allo ! Dagi d Massil = Allo ! C'est Massil
+- Tella Ferrudja = Ferroudja est là ?
+- Se3diyi ttid kane = Passe la moi !
 - Yiveh, ur gezzm ara = Très bien, ne coupe pas !
-- Ma ra ddughal, inass a yi dsiwel = Quand elle sera de retour, dis lui de ma rappeler
+- Ma ra ddughal, inass a yi dsiwel = Quand elle sera de retour, dis-lui de ma rappeler
 - Anwa itt yihwadjen = Qui a besoin d'elle ?
 - Edjed lewsaya = Laisse un message
 
@@ -60,8 +60,8 @@
 - Iwwet iyi wadu = J'ai attrapé froid
 - Tqerhiyi a3ebutiw = J'ai mal au ventre
 - Iqerhiyi a9errouyiw = J'ai mal à la tête
-- Mliyi anda yella tviv = Montre moi où se trouve le médecin
-- Awi yi ar tviv = Emmène moi chez le médecin
+- Mliyi anda yella tviv = Montre-moi où se trouve le médecin
+- Awi yi ar tviv = Emmène-moi chez le médecin
 - Anda yella svitar = Où se trouve l'hopital
 - Tawla = Fièvre
 - Tusut = Toux
