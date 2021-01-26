@@ -1,4 +1,4 @@
-# Révision
+# Révision (grammaire)
 
 - Tidhi = Sueur
 - Izzi / Izzan = Mouche(s)
