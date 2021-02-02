@@ -105,7 +105,7 @@
 ### Comme
 
 - Am = Comme
-- Massil d axeddam am vavas = Massil est aussi bosseur que son père
+- Massil d axeddam am vavas = Massil est◊◊ aussi bosseur que son père
 
 ### Autant que
 
