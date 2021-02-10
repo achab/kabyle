@@ -70,7 +70,7 @@
 
 ### Comment
 
-- Amik yella ? = Comment il veut ?
+- Amik yella ? = Comment il va ?
 - Amik t ilid ? = Comment tu vas ?
 
 ### Pour qui
@@ -96,7 +96,7 @@
 
 - Ach'hal = Combien ?
 - Ach'hal igourdan ig s3a ? = Combien il a d'enfants ?
-- Ach'hal i ifissires ? = Combien pour les poires ?
+- Ach'hal i ifires ? = Combien pour les poires ?
 
 ### Il y a ?
 
