@@ -26,14 +26,14 @@
 # Famille
 - S wexxamik = Tu es marié ?
 - Ih, s3igh tlata teqcicin d sin arrac = Oui, j'ai trois filles et deux enfants
-- Ak ten ihrez Rebbi = Que Dieu te les protège
+- Ak ten(t) ihrez Rebbi = Que Dieu te les protège
 - Amine ! Ajma3ine = Sert de réponse pour toute invocation religieuse
 - Iherz ik ulad keccini = Que Dieu te garde toi aussi
 
 # Locutions utiles
 - Amik tellam = Comment allez-vous ?
 - Amik tilid = Comment vas-tu ?
-- Nekki, vkhir i lligh = Moi, je vais bien
+- Nekki, vkhir illigh = Moi, je vais bien
 - Tzewred / Tdjehded / Tsehhad ? = Comment tu te portes ?
 - Mrehva yissek ! = Sois le bienvenu ! 
 - Chedh'hagh k ! = Tu me manques. 
