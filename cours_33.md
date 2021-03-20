@@ -24,7 +24,7 @@
 
 - Achkikem a tafsut, deg ur yelli azghal wala asemmid  = Que tu es géniale ô Printemps, où il n'y a ni froid ni chaleur
 - Kem wehdem, tchev'hed, tamurt techveh issem = Toi seul, tu es beau, et tu embellis le pays
-- Tafsut tetrebbi, anebdu it3abbi. Le printemps fait pousser, l’été on charge (chaque chose en son temps).
+- Tafsut tettrebbi, anebdu itt3abbi. Le printemps fait pousser, l’été on charge (chaque chose en son temps).
 - Amellal d uberkan la3mer m3acaren. Le blanc et le noir ne s’accordent jamais.
 - Ixled azegzaw d u9uran = Le vrai et le faux se sont mélangés
 - Xellun t 3acra, ia3mer it yiwen. Dix ruinent, un édifie (prédominance de dévastateurs).
