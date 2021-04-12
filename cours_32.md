@@ -33,4 +33,3 @@
 - 1. Di tamacahut, yella argaz, tamettut tamezwarut uked tislit tis snat
 - 2. Yiskadved wergaz i tmettut is bach at sebb imelsi i inevgiwen. Ma yiskadv ara, a tagi at sebb imelsi
 - 3. Inayas wergaz belli llan 3ecra inevgawen ara d yassen s axam nsenn tameddit agui
-- 4. 4. 

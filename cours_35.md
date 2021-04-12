@@ -27,7 +27,7 @@
 - Vnineth = Bonne (goûtu)
 - Asemmam = Acide
 - Yerzag = Amer
-- Tizett = La douceur
+- Tizet = La douceur
 
 # Révision (repas)
 
