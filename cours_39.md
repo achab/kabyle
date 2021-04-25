@@ -9,9 +9,7 @@
 - S = Avec (pour un objet, au moyen de)
 - Yiss i ara twalid = Avec moi, tu vas voir
 - Yiwt iyi s tavagust/tghegat = Il m'a frappé à l'aide d'une ceinture
-- Nekkad seg lvhar = Nous venons de la mer
 - Nekkad seg levher = Nous venons de la mer
-- Acu d oughed = Qu'as-tu acheté
 - Acu d tughed ? = Qu'as tu acheté
 - Amik llan imawlan ik = Comment vont tes parents
 - Anda iruh assagui = Où est-il allé aujourd'hui
