@@ -31,5 +31,3 @@
 ### Souvenir
 
 - Asmekti = Rappel / Souvenir
-
-
