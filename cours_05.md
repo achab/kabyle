@@ -34,7 +34,7 @@
 - Ulac-it = Il n'est pas là
 - Ulac-itt = Elle n'est pas là
 - Ulac-agh = Nous ne sommes pas là
-- Ulac-iken = Vous n'êtes pas là (masc.)
+- Ulac-ikwen = Vous n'êtes pas là (masc.)
 - Ulac-ikwent = Vous n'êtes pas là (fém.)
 - Ulac-iten = Ils ne sont pas là
 - Ulac-itent = Elles ne sont pas là

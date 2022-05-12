@@ -100,7 +100,7 @@
 - Aql-at = Il est
 - Aql-att = Elle est
 - Aqla-gh = Nous sommes (= on est là)
-- Aql-aken = Vous êtes (masc.)
+- Aql-akwen = Vous êtes (masc.)
 - Aqla-kwent = Vous êtes (fém.)
 - Aql-aten = Ils sont
 - Aql-atent = Elles sont
